@@ -1,0 +1,13 @@
+{
+    "project": [
+        {
+            "author": "Michael Peters",
+            "projectName": "northwst",
+            "version": "0.1",
+            "description": "This is a basic website I am making",
+            "longDescription": "A homepage website written in HTML5, Javascript, and CSS.",
+            "githubLink": "https://github.com/michaelpeterswa/northwst",
+            "date": "06.25.2019"
+        }
+    ]
+}
