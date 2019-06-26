@@ -1,0 +1,30 @@
+.header {
+    font-family: 'Cutive Mono', monospace;
+    color: antiquewhite;
+    text-align: center;
+}
+
+.link {
+    color: antiquewhite;
+    text-align: center;
+}
+
+.paragraph-box {
+    padding-top: 1em;
+}
+
+p {    
+    font-family: 'Cutive Mono', monospace;
+    color: antiquewhite;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+
+}
+
+a {
+    color: inherit;
+    font-size: 24pt
+}
